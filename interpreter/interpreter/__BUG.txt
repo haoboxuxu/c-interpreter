@@ -1,0 +1,2 @@
+int* to int
+use long long cast

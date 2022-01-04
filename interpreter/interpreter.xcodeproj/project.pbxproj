@@ -25,6 +25,10 @@
 /* Begin PBXFileReference section */
 		D8126EF12782DF2B00BFF60C /* interpreter */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = interpreter; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8126EF42782DF2B00BFF60C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D8126EFB278490D900BFF60C /* hello.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = hello.c; sourceTree = "<group>"; };
+		D8126EFD2784933200BFF60C /* run.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = run.sh; sourceTree = "<group>"; };
+		D8126EFE27849C8C00BFF60C /* sub_func_call.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = sub_func_call.txt; sourceTree = "<group>"; };
+		D8126EFF27849EF900BFF60C /* __BUG.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = __BUG.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,10 @@
 			isa = PBXGroup;
 			children = (
 				D8126EF42782DF2B00BFF60C /* main.cpp */,
+				D8126EFB278490D900BFF60C /* hello.c */,
+				D8126EFD2784933200BFF60C /* run.sh */,
+				D8126EFE27849C8C00BFF60C /* sub_func_call.txt */,
+				D8126EFF27849EF900BFF60C /* __BUG.txt */,
 			);
 			path = interpreter;
 			sourceTree = "<group>";
